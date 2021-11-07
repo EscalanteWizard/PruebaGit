@@ -19,3 +19,6 @@ git log                      --historial de commits
 .gitignore                   --formato del nombre de la carpeta para archivos a ser ignorados (pruebas y demás), dentro de este se ponen el nombre de los archivos que de seben ignorar
 git commit -m "a"            --formato para poner el asunto del commit sin entrar al editor molesto
 git branch <n>               --crear una nueva rama (copia del proyecto) con un nombre específico
+
+  
+  (texto de readme es markDown)
